@@ -1,0 +1,176 @@
+#card{
+    background-color: black;
+    color: white;
+
+}
+#card #news{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#card #news h1{
+    font-size: 23px;
+}
+#card #bikes{
+    display: flex;
+}
+#card #bikes div{
+    width: 25%;
+    height: 240px;
+    overflow: hidden;
+}
+#card #bikes div img{
+    width: 100%;
+}
+#card #bikes div p{
+    position: relative;
+    top: -69px;
+    padding-right: 10px;
+}
+#card #bikes div img:hover{
+    transform: scale(1.2);
+    transition: 2s;
+}
+.navbar1 ul{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    list-style-type: none;
+
+}
+.navbar1{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.xyz:hover{
+    color: red;
+}
+.image1 img{
+    width: 100%;
+}
+#abc{
+    background-color: black;
+    color: white;
+}
+#abc #bye h1{
+    font-size: 23px;
+}
+#abc #bye{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#navbar2 ul{
+    justify-content: right;
+    display: flex;
+    list-style-type: none;
+    padding: 20px;
+    margin-bottom: 0px;
+    margin: right 25px;
+    color: black;
+    background-color: white;
+   
+}
+#navbar2 ul p{
+    margin-top: 0px;
+    padding-top: 15px;
+}
+#navbar2 ul li{
+    font-size: 30px;
+}
+#navbar2 #face:hover{
+    color: blue;
+
+}
+#navbar2 #twitt:hover{
+    color: 
+    #1cc0f2;
+}
+#navbar2 #insta:hover{
+    color:#f5513e
+
+}
+#navbar2 #link:hover{
+    color: #1877f2;
+}
+#navbar2 #you:hover{
+    color: #f5513e;
+}
+#black{
+    display: flex;
+    gap: 13%;
+    background-color: #212121;
+    padding-right: 230px;
+    padding-left: 230px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
+#black div h4{
+    font-size: 20px;
+}
+
+#black div a{
+    text-decoration: none;
+    color: gray;
+}
+#black div i{
+    font-size: 28px;
+}
+#footersectiion1 .xyz{
+    list-style-type: none;
+    color: beige;
+    justify-content: space-between;
+    display: flex;
+    
+
+}
+#footersectiion{
+    margin-right: 10px;
+}
+#symbols{
+        margin-top: 11px;
+        margin-bottom: 1rem;
+        padding: 10px 10px 17px 10px;
+        font-size: 22px;
+
+}
+#footersection2 .b:hover{
+    color:red;
+}
+#symbols #font{
+    color: #212121;
+    font-size: 40px;
+}
+#symbols #face:hover{
+    color:#3a559f       
+} 
+#symbols #true :hover{
+    color: #1cc0f2;
+}
+#symbols #font{
+    display: flex;
+    gap: 20px;
+}
+#symbols #you:hover{  
+    color:#eb211f
+}
+#symbols #insta:hover{
+    color:#ed4c4b
+}
+#symbols #link:hover{
+    color:#0063c2
+}
+#footersectiion1 .a:hover{
+    color: red;
+}
+.navmotor :hover{
+    color: #eb211f;
+}
+
+
+
